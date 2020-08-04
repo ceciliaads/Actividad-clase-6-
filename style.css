@@ -20,10 +20,6 @@
 
 }
 
-.imagen1 {
-    width: 90px;
-    height: 90px;
-}
 
 
 .CSS3 {
@@ -40,10 +36,6 @@
     box-sizing: border-box;
 }
 
-.imagen2 {
-    width: 90px;
-    height: 90px;
-}
 
 
 
@@ -61,10 +53,6 @@
     box-sizing: border-box;
 }
 
-.imagen3 {
-    width: 90px;
-    height: 90px;
-}
 
  
 .abajo {
@@ -86,10 +74,7 @@
     box-sizing: border-box;
 
 }
-.imagen4 {
-    width: 90px;
-    height: 90px;
-}
+
 
 
 
@@ -106,11 +91,6 @@
 
     box-sizing: border-box;
 }
-.imagen5 {
-    width: 90px;
-    height: 90px;
-}
-
 
 
 
@@ -127,8 +107,9 @@
 
     box-sizing: border-box;
 }
-.imagen6 {
+
+img {
+
     width: 90px;
     height: 90px;
 }
-
